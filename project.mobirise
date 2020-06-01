@@ -49,7 +49,10 @@
     "uniqCompNum": 92,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
-    "modified": "2019-05-03T23:34:45.525Z"
+    "modified": "2019-05-03T23:34:45.525Z",
+    "favicon": "@PROJECT_PATH@/assets/images/bel-no-jardim-verso-com-no-jardim-alinhado-proporcional-a3-128x66.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
