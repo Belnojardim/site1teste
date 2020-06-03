@@ -6,7 +6,7 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#b1d7a7",
+        "primaryColor": "#f9f9f9",
         "secondaryColor": "#ff3366",
         "successColor": "#e2f5dd",
         "infoColor": "#82786E",
@@ -15,7 +15,7 @@
         "mainFont": "Rubik",
         "display1Font": "Merriweather",
         "display1Size": 4.25,
-        "display2Font": "Rubik",
+        "display2Font": "Anton",
         "display2Size": 3,
         "display5Font": "Rubik",
         "display5Size": 1.5,
@@ -43,16 +43,32 @@
         "css": "'Merriweather', serif",
         "name": "Merriweather",
         "url": "https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i"
+      },
+      {
+        "css": "'Dancing Script', handwriting",
+        "name": "Dancing Script",
+        "url": "https://fonts.googleapis.com/css?family=Dancing+Script:400,500,600,700"
+      },
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
+      },
+      {
+        "css": "'Anton', sans-serif",
+        "name": "Anton",
+        "url": "https://fonts.googleapis.com/css?family=Anton:400"
       }
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 92,
-    "versionPublish": "4.10.8",
+    "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "modified": "2019-05-03T23:34:45.525Z",
     "favicon": "@PROJECT_PATH@/assets/images/bel-no-jardim-verso-com-no-jardim-alinhado-proporcional-a3-128x66-1.png",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -1483,7 +1499,7 @@
             },
             "H2": {
               "text-align": "center",
-              "color": "#b1d7a7"
+              "color": "#f9f9f9"
             },
             "B": {
               "color": "#e2f5dd"
@@ -1502,117 +1518,109 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": "hover",
             "slides__autoplayInterval": "5000",
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1600.png",
+                "image": "@PROJECT_PATH@/assets/images/p1020188-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "",
-                "overlay": true,
+                "title": "<b>JARDIM DE RELAXAMENTO</b>",
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Escolha a partir da grande seleção de blocos pré-fabricados mais recentes - jumbotrons, imagens de heróis, rolagem de paralaxe, fundos de vídeo, menu de hambúrguer, cabeçalho e mais.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
-                "overlayOpacity": "0"
+                "overlayOpacity": "0",
+                "overlayColor": "#f9f9f9",
+                "textTitle": "JARDINS DE CONTEMPLAÇÃO"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1600.png",
+                "image": "@PROJECT_PATH@/assets/images/p1010841-1-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "",
-                "overlay": true,
+                "title": "<b>JARDIM DE RELAXAMENTO</b>",
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Escolha a partir da grande seleção de blocos pré-fabricados mais recentes - jumbotrons, imagens de heróis, rolagem de paralaxe, fundos de vídeo, menu de hambúrguer, cabeçalho e mais.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
-                "overlayOpacity": "0"
+                "overlayOpacity": "0",
+                "overlayColor": "#f9f9f9",
+                "textTitle": "JARDINS DE RELAXAMENTO"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1600.png",
+                "image": "@PROJECT_PATH@/assets/images/20140802-121127-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "",
-                "overlay": true,
+                "title": "<b>JARDIM DE RELAXAMENTO</b>",
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Escolha a partir da grande seleção de blocos pré-fabricados mais recentes - jumbotrons, imagens de heróis, rolagem de paralaxe, fundos de vídeo, menu de hambúrguer, cabeçalho e mais.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
-                "overlayOpacity": "0"
+                "overlayOpacity": "0",
+                "overlayColor": "#f9f9f9",
+                "textTitle": "JARDINS DE CORES"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/4-2000x1600.png",
+                "image": "@PROJECT_PATH@/assets/images/20170906-141925-2000x1125.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "",
-                "overlay": true,
+                "title": "<b>JARDIM DE RELAXAMENTO</b>",
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Escolha a partir da grande seleção de blocos pré-fabricados mais recentes - jumbotrons, imagens de heróis, rolagem de paralaxe, fundos de vídeo, menu de hambúrguer, cabeçalho e mais.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
-                "overlayOpacity": "0"
+                "overlayOpacity": "0",
+                "overlayColor": "#f9f9f9",
+                "textTitle": "JARDINS DE TEXTURAS<br>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/jardins-de-contemplao-7-2000x1600.png",
+                "image": "@PROJECT_PATH@/assets/images/20160425-105745-2000x1125.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "",
-                "overlay": true,
+                "title": "<b>JARDIM DE RELAXAMENTO</b>",
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Escolha a partir da grande seleção de blocos pré-fabricados mais recentes - jumbotrons, imagens de heróis, rolagem de paralaxe, fundos de vídeo, menu de hambúrguer, cabeçalho e mais.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/1-1-2000x1600.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-2",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Escolha a partir da grande seleção de blocos pré-fabricados mais recentes - jumbotrons, imagens de heróis, rolagem de paralaxe, fundos de vídeo, menu de hambúrguer, cabeçalho e mais.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
-                "overlayOpacity": "0"
+                "overlayOpacity": "0",
+                "overlayColor": "#f9f9f9",
+                "textTitle": "JARDINS DE SABORES<br>"
               }
             ]
           }
