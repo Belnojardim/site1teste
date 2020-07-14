@@ -61,7 +61,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 92,
+    "uniqCompNum": 93,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "modified": "2019-05-03T23:34:45.525Z",
@@ -1759,42 +1759,36 @@
         },
         {
           "_params": {
-            "token": "2218360737.727bfe1.359eb968e41945a596dab2fee2324e77",
+            "token": "",
             "showTitle": true,
-            "layoutGridRadio": false,
-            "imagesPerRowGrid": "5",
-            "rows": "5",
-            "showMoreButton": true,
-            "layoutSliderRadio": true,
-            "imagesPerRowSlider": "5",
-            "spacing": "20",
-            "fullWidth": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "2",
+            "rows": "2",
+            "showMoreButton": false,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fafafa",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#efefef",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": 0.6
           },
-          "title": "<b>INSTAGRAM</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-7\" href=\"#\" data-max-id=\"2282209946493520639_2218360737\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
-          "display4": "display-7",
+          "display4": "display-4",
           "alias": "instagram-feed",
           "_tags": [
-            "Extesões"
+            "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-2d",
-          "_styles": {
-            ".inst__title": {
-              "text-align": "center",
-              "color": "#149dcc"
-            }
-          }
+          "_anchor": "instagram-feed-block-2k"
         },
         {
           "alias": false,
