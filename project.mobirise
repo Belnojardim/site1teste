@@ -61,7 +61,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 96,
+    "uniqCompNum": 97,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "modified": "2019-05-03T23:34:45.525Z",
@@ -1759,16 +1759,16 @@
         },
         {
           "_params": {
-            "token": "",
+            "account": "",
             "showTitle": true,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": "2",
-            "rows": "2",
+            "imagesPerRowGrid": "7",
+            "rows": "4",
             "showMoreButton": false,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
+            "spacing": "18",
+            "fullWidth": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColorRadio": true,
@@ -1779,7 +1779,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "Instagram Feed",
+          "title": "<a href=\"https://www.instagram.com/belnojardim/\" class=\"text-warning\"><b>Instagram Feed</b></a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
@@ -1788,7 +1788,7 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-2k"
+          "_anchor": "instagram-feed-block-2o"
         },
         {
           "alias": false,
