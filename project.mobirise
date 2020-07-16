@@ -1759,14 +1759,14 @@
         },
         {
           "_params": {
-            "account": "",
+            "account": "belnojardim",
             "showTitle": true,
-            "layoutGridRadio": true,
+            "layoutGridRadio": false,
             "imagesPerRowGrid": "7",
             "rows": "4",
             "showMoreButton": false,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
+            "layoutSliderRadio": true,
+            "imagesPerRowSlider": "5",
             "spacing": "18",
             "fullWidth": true,
             "paddingTop": "1",
@@ -1779,7 +1779,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "<a href=\"https://www.instagram.com/belnojardim/\" class=\"text-warning\"><b>Instagram Feed</b></a>",
+          "title": "<b>Instagram Feed</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
